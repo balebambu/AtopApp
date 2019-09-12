@@ -28,8 +28,9 @@
         android:layout_height="30dp"
         android:layout_marginEnd="36dp"
         android:layout_marginBottom="32dp"
-        android:background="@color/buttonColor"
+        android:background="@color/green"
         android:text="@string/logout"
+        android:textColor="#ffffff"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
@@ -39,8 +40,9 @@
         android:layout_height="30dp"
         android:layout_marginStart="36dp"
         android:layout_marginBottom="36dp"
-        android:background="@color/buttonColor"
+        android:background="@color/green"
         android:text="@string/configuration"
+        android:textColor="#ffffff"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 

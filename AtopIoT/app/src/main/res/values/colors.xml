@@ -8,4 +8,7 @@
     <color name="background">#FFFFFF</color>
     <color name="border">#FFFFFF</color>
     <color name="buttonColor">#E8EAF3</color>
+    <color name="green">#23B10B</color>
+
+
 </resources>

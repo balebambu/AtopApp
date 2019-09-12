@@ -114,7 +114,7 @@ public class MachineActivity extends AppCompatActivity {
                 );
 
                 // Calling method
-                dialog.getWindow().setBackgroundDrawable(new ColorDrawable(Color.GRAY));
+                dialog.getWindow().setBackgroundDrawable(new ColorDrawable(Color.WHITE));
                 dialog.show();
 
                 Log.d(TAG, "show dialog");
@@ -141,7 +141,7 @@ public class MachineActivity extends AppCompatActivity {
                 );
 
                 // Calling method
-                dialog.getWindow().setBackgroundDrawable(new ColorDrawable(Color.GRAY));
+                dialog.getWindow().setBackgroundDrawable(new ColorDrawable(Color.WHITE));
                 dialog.show();
 
                 Log.d(TAG, "show dialog");
